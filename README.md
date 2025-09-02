@@ -45,8 +45,11 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8411FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -72,7 +75,6 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 ---
 
 ### 🚀 Featured Projects
-
 
 #### 1️⃣ Personal Finance P2P Payment System
 💰 **Description:** A secure peer-to-peer payment platform designed for real-time transactions.  
@@ -127,12 +129,15 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 **Demo Video:** [Watch Video](https://res.cloudinary.com/dbftgtgs9/video/upload/v1756538980/thyroid_zavtay.mp4)  
 **Source Code:** [GitHub Repo](https://github.com/hemhemaKK/ThyroidDisease-Check)  
 
-#### 📦 Mini Projects Collection
+---
+
+### 📦 Mini Projects Collection
 - **Description:** Multiple mini-projects demonstrating skills in web development, Python scripting, AI/ML, and automation.  
 - **Profile:** [GitHub Profile](https://github.com/hemhemaKK)  
 - **Tags:** #Projects #Portfolio #Learning #OpenSource  
 
 ---
+
 ### 📚 Certifications
 
 | Platform | Title |
@@ -143,6 +148,7 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 | NPTEL | [Operating System](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL23CS123S83230520320187240) |
 
 ---
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -157,6 +163,14 @@ I believe in continuous learning, problem-solving, and collaborating on projects
   <img src="https://github-readme-stats.vercel.app/api?username=hemhemaK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemhemaK&theme=tokyonight&hide_border=false" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemhemaK&layout=compact&theme=tokyonight&hide_border=false" width="47%"/>
+</p>
+
+---
+
+### 📈 GitHub Activity / Contribution Calendar
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hemhemaK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---

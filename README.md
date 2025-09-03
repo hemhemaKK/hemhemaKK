@@ -167,14 +167,6 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 
 ---
 
-### 📈 GitHub Activity / Contribution Calendar
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=hemhemaK&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ### 💬 Quote I Like
 
 > “The best way to predict the future is to invent it.” 

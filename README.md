@@ -22,18 +22,6 @@
 
 #### I believe in continuous learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. I’m always open to new opportunities, collaborations, and ways to contribute to meaningful projects. 
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hemavathi-k-a8475924b) | [Email](mailto:hemavathikrishnan2627@gmail.com)  
-
----
-
-### 🌐 Socials
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemavathi-k-a8475924b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hemavathikrishnan2627@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/hemhemaK"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 💻 Tech Stack
@@ -104,6 +92,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hemhemaK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" width="47%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemhemaK&theme=tokyonight&hide_border=false" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemhemaK&layout=compact&theme=tokyonight&hide_border=false" width="47%"/>
+</p>
+
+---
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hemavathi-k-a8475924b) | [Email](mailto:hemavathikrishnan2627@gmail.com)  
+
+---
+
+### 🌐 Socials
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hemavathi-k-a8475924b"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hemavathikrishnan2627@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/hemhemaK"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---

@@ -8,14 +8,19 @@
 </p>
 
 ---
+### 🧭 Who Am I?
+- 🔭 Developer · Engineer · Tech Explorer
+- 💬 Ask me about DSA, React, MERN Stack, or ML Models
+- 🌱 Currently growing deeper into AI automation, full-stack app design, and cloud services
+- ⚒️ Building side-projects, contributing to GitHub, and solving Leetcode/DSA challenges
 
 ### 💫 About Me
 
-Hi, I’m Hemavathi K, an aspiring Full Stack Software Developer and MCA graduate (Class of 2024). I’m passionate about building scalable, efficient, and user-friendly software solutions that can make a real impact. I enjoy exploring both the front-end and back-end, and I have hands-on experience with technologies like React, Node.js, Firebase, Django, and Python.
+- 🔭 I’m currently working on **[Personal Project](https://financemanageentp2p.netlify.app/)**
+- 🌱 I’m currently learning **[MERN Full-Stack]**
+- 👯 I’m looking to collaborate on **[Virtual-Event](https://hemhemakk.github.io/)**
 
-I’m also deeply interested in AI, Machine Learning, and Cloud Technologies, constantly learning and experimenting with new tools to enhance my projects. Whether it’s designing a responsive web application, implementing secure backend functionality, or integrating ML models, I love turning ideas into functional, interactive applications.
-
-I believe in continuous learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. I’m always open to new opportunities, collaborations, and ways to contribute to meaningful projects.
+#### I believe in continuous learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. I’m always open to new opportunities, collaborations, and ways to contribute to meaningful projects. 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hemavathi-k-a8475924b) | [Email](mailto:hemavathikrishnan2627@gmail.com)  
 

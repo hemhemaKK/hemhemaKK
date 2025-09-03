@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring Software Developer | Full Stack Developer | MCA 2024</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;MCA+Graduate+2024;Learning+Everyday;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Graduate+2024;Learning+Everyday;Open+to+New+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -74,70 +74,6 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 
 ---
 
-### 🚀 Featured Projects
-
-#### 1️⃣ Personal Finance P2P Payment System
-💰 **Description:** A secure peer-to-peer payment platform designed for real-time transactions.  
-✅ **Features:** user authentication, Razorpay integration, dashboards, transaction history, notifications.  
-💡 **Demo Flow:**  
-1. Start with user registration and login.  
-2. Send a payment between two accounts.  
-3. Dashboards and notifications update instantly.  
-
-**Tech Stack:** React, Node.js, Firebase, Razorpay, JavaScript  
-**Live Demo:** [Visit Site](https://financemanageentp2p.netlify.app/)  
-**Source Code:** [GitHub Repo](https://github.com/hemhemaKK/personal-finance)  
-
----
-
-#### 2️⃣ Virtual Event Platform
-🎫 **Description:** Responsive platform for managing and attending online events.  
-✅ **Features:** event registration, reminders, premium content, real-time notifications.  
-💡 **Demo Flow:**  
-1. Display list of events.  
-2. Register for an event.  
-3. Reminders and notifications trigger in real-time.  
-
-**Tech Stack:** React, Firebase, JavaScript  
-**Live Demo:** [Visit Site](https://hemhemakk.github.io/online_managment_app/)  
-**Source Code:** [GitHub Repo](https://github.com/hemhemaKK/online_managment_app)  
-
----
-
-#### 3️⃣ E-Commerce Web Application
-🛒 **Description:** Full-stack online shopping platform with user and admin modules.  
-✅ **Features:** authentication, product browsing, cart, checkout, inventory tracking, dashboards.  
-💡 **Demo Flow:**  
-1. Browse products and add to cart.  
-2. Complete checkout.  
-3. Admin dashboard to manage products and orders.  
-
-**Tech Stack:** React, Node.js, MongoDB, JavaScript  
-**Live Demo:** [Visit Site](https://hemhemakk.github.io/E_commerce_project/)  
-**Source Code:** [GitHub Repo](https://github.com/hemhemaKK/E_commerce_project)  
-
----
-
-#### 4️⃣ Thyroid Disease Prediction (ML)
-🧠 **Description:** Machine learning project predicting thyroid disease using medical datasets.  
-✅ **Features:** data preprocessing, classification algorithms, health-based predictions.  
-💡 **Demo Flow:**  
-1. Run predictions with sample test cases.  
-2. Display prediction results clearly.  
-
-**Tech Stack:** Python, Django (UI), DB-Browser, ML classification models  
-**Demo Video:** [Watch Video](https://res.cloudinary.com/dbftgtgs9/video/upload/v1756538980/thyroid_zavtay.mp4)  
-**Source Code:** [GitHub Repo](https://github.com/hemhemaKK/ThyroidDisease-Check)  
-
----
-
-### 📦 Mini Projects Collection
-- **Description:** Multiple mini-projects demonstrating skills in web development, Python scripting, AI/ML, and automation.  
-- **Profile:** [GitHub Profile](https://github.com/hemhemaKK)  
-- **Tags:** #Projects #Portfolio #Learning #OpenSource  
-
----
-
 ### 📚 Certifications
 
 | Platform | Title |
@@ -174,3 +110,7 @@ I believe in continuous learning, problem-solving, and collaborating on projects
 ---
 
 <!-- Proudly created with 💙 using GPRM (https://gprm.itsvg.in) -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Thank+You+for+visiting;" alt="Typing SVG" />
+</p>
